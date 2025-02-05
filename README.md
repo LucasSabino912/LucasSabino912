@@ -10,9 +10,9 @@
 
 🛠️ Tech Stack
 
-💻 Languages: C/C++, SQL
-🛠️ Tools & Technologies: Git, Linux
-📚 Currently Learning: System Design, DSA & 
+   💻 Languages: C/C++, SQL
+   🛠️ Tools & Technologies: Git, Linux
+   📚 Currently Learning: System Design, DSA & Operative systems
 
 ## 📫 Let's Connect
 
