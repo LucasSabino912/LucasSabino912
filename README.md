@@ -1,26 +1,25 @@
 # 👋 Hey, I'm Lucas Sabino!
 
-🚀 Passionate about technology and problem-solving. Currently studying Computer Science, sharpening my skills in Data Structures & Algorithms and Software Engineering.
+🚀 Passionate about technology, problem-solving, and building real-world applications. Currently studying Computer Science while following a self-designed learning path that combines **Backend Development with JavaScript** and **Artificial Intelligence with Python**, integrating both worlds into practical projects.
 
 ## 🔥 About Me
 
-   🎓 Learning and building cool projects  
+   🎓 Focused on mastering Backend Development (Node.js, JavaScript) and AI/ML with Python  
+   💡 Building projects that connect APIs, databases, and AI models to solve real problems  
+   💼 Open to collaborations and opportunities to apply my skills in real environments  
+   🌎 Love contributing to open-source and sharing my learning process
 
-   💡 Exploring new technologies and best coding practices
+## 🛠️ Tech Stack
 
-   💼 Open to new job opportunities and collaborations
+   💻 **Languages:** C/C++, SQL, JavaScript, Python  
+   🛠️ **Tools & Technologies:** Git, Linux, MySQL, PostgreSQL, Node.js, Express, REST APIs, Docker  
+   📚 **Currently Learning:** Backend Architecture, Machine Learning, AI APIs integration, Cloud Deployment
 
-   🌎 Love contributing to open-source and growing as a developer
+## 📈 Current Learning Path
 
-
-## 🛠️ Tech Stack: 
-
-   💻 Languages: C/C++, SQL
-
-   🛠️ Tools & Technologies: Git, Linux, MySQL, PostgreSQL
-
-   📚 Currently Learning: System Design, DSA & Operative systems
+1. **Backend with JavaScript** – REST APIs, authentication, databases, deployment  
+2. **Artificial Intelligence with Python** – Data processing, ML models, AI APIs  
+3. **Integration** – Connecting backend services with AI-powered features in real-world apps
 
 ## 📫 Let's Connect
-
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-sabino18/)  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/LucasSabino912)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sabino.lucas2016@gmail.com)  
