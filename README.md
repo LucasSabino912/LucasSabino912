@@ -11,7 +11,7 @@
 
 ## 🛠️ Tech Stack
 
-   💻 **Languages:** C/C++, SQL, JavaScript, Python  
+   💻 **Languages:** avaScript, Python, C/C++, SQL
    🛠️ **Tools & Technologies:** Git, Linux, MySQL, PostgreSQL, Node.js, Express, REST APIs, Docker  
    📚 **Currently Learning:** Backend Architecture, Machine Learning, AI APIs integration, Cloud Deployment
 
