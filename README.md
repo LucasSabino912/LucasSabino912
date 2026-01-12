@@ -14,6 +14,4 @@ Stack técnico:
 
 - Herramientas: Git, control de versiones
 
-🚀 Abierto a oportunidades Junior Backend / Full Stack.
-
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-sabino18/)  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/LucasSabino912)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sabino.lucas2016@gmail.com)  
