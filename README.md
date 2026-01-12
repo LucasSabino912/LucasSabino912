@@ -1,25 +1,19 @@
-# 👋 Hey, I'm Lucas Sabino!
+Lucas Sabino | Ciencias de la Computación@ FaMAF y Junior Full Stack Developer, con foco en backend.
 
-🚀 Passionate about technology, problem-solving, and building real-world applications. Currently studying Computer Science while following a self-designed learning path that combines **Backend Development with JavaScript** and **Artificial Intelligence with Python**, integrating both worlds into practical projects.
+Desarrollo aplicaciones web con enfoque en buenas prácticas de ingeniería de software, código mantenible y APIs bien diseñadas. Trabajo principalmente en backend utilizando FastAPI, incluyendo WebSockets, autenticación y manejo de lógica de negocio, complementado con frontend en React y diseño con CSS y Tailwind.
 
-## 🔥 About Me
+Cuento con experiencia en testing unitario, uso de Git y control de versiones, y manejo de bases de datos SQL y NoSQL (MongoDB). Me adapto rápido a nuevos entornos, disfruto aprender tecnologías nuevas y busco incorporarme a mi primer empleo en desarrollo de software, especialmente en equipos startup donde pueda crecer y aportar valor desde el inicio.
 
-   🎓 Focused on mastering Backend Development (Node.js, JavaScript) and AI/ML with Python  
-   💡 Building projects that connect APIs, databases, and AI models to solve real problems  
-   💼 Open to collaborations and opportunities to apply my skills in real environments  
-   🌎 Love contributing to open-source and sharing my learning process
+Stack técnico:
 
-## 🛠️ Tech Stack
+- Backend: FastAPI, WebSockets, Testing unitario
 
-   💻 **Languages:** avaScript, Python, C/C++, SQL
-   🛠️ **Tools & Technologies:** Git, Linux, MySQL, PostgreSQL, Node.js, Express, REST APIs, Docker  
-   📚 **Currently Learning:** Backend Architecture, Machine Learning, AI APIs integration, Cloud Deployment
+- Frontend: React, CSS, Tailwind
 
-## 📈 Current Learning Path
+- Bases de datos: SQL, MongoDB
 
-1. **Backend with JavaScript** – REST APIs, authentication, databases, deployment  
-2. **Artificial Intelligence with Python** – Data processing, ML models, AI APIs  
-3. **Integration** – Connecting backend services with AI-powered features in real-world apps
+- Herramientas: Git, control de versiones
 
-## 📫 Let's Connect
+🚀 Abierto a oportunidades Junior Backend / Full Stack.
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-sabino18/)  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/LucasSabino912)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sabino.lucas2016@gmail.com)  
